@@ -11,3 +11,5 @@ Statistics Related Concepts and Codes
   - Scatter Plots
   - Correlations
   - Covariance
+- Project - Movie Reviews
+  - Implementing Statistics on a Dataset
