@@ -13,3 +13,5 @@ Statistics Related Concepts and Codes
   - Covariance
 - Project - Movie Reviews
   - Implementing Statistics on a Dataset
+- Regression 
+  - Linear Regression Model
