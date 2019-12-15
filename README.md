@@ -15,3 +15,5 @@ Statistics Related Concepts and Codes
   - Implementing Statistics on a Dataset
 - Regression 
   - Linear Regression Model
+- Movie Reviews Conti..
+  - Comparing for 2 particular sites, project extended
