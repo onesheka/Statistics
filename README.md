@@ -17,3 +17,6 @@ Statistics Related Concepts and Codes
   - Linear Regression Model
 - Movie Reviews Conti..
   - Comparing for 2 particular sites, project extended
+- Probability -1 
+  - Conjunctive Probability
+  - Disjunctive Probability
